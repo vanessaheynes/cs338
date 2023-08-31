@@ -1,4 +1,0 @@
-Vanessa Heynes
-Kali Plan 
-
-I'm reluctant to install Kali on my PC (since it can be slow at times), so I plan on using Kali in the CS labs. However, in the past, I've found it easier to have my work on my own device when I need it during office hours, so I may end up installing it on my PC. 
